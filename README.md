@@ -36,7 +36,7 @@
 
 ## 懶人包、法規與報告文件(pdf)
 * [自由經濟示範區：逆轉勝的序曲](http://about.fepz.org.tw/)
-* [示範區：話說從頭)](http://www.slideshare.net/NDCFepz/part-2-35993451)
+* [示範區：話說從頭](http://www.slideshare.net/NDCFepz/part-2-35993451)
 * [智慧物流係蝦米？](http://taiwan-ftz.com/public/Data/47416334571.pdf)
 * [自由經濟示範區：國際健康產業](http://www.mohw.gov.tw/MOHW_Upload/doc/%E5%9C%8B%E9%9A%9B%E5%81%A5%E5%BA%B7%E7%94%A2%E6%A5%AD%E6%87%B6%E4%BA%BA%E5%8C%85-1030625_0045708001.pdf)
 * [金融服務已經納入自由經濟示範區](http://www.fsc.gov.tw/ch/home.jsp?id=431&parentpath=0,2)
