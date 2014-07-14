@@ -1,21 +1,10 @@
-# 讓你真的讀懂草案的「自經區爭議書」
+# 讓你真的看懂草案的「自由經濟示範區釋疑書」
 
 ## 本書特色
 
-這是由沃草[國會無雙](http://musou.tw/)編輯群所整理的「自經區爭議書」。
+這是由國發會示範區政策團隊針對沃草的「自經區爭議書」，所整理的「自由經濟示範區釋疑書」。我們希望社會大眾更能瞭解示範區政策，讓民眾瞭解政府經濟發展政策，而不應成為愛台、賣台指控的「論戰」。
 
-一直以來，沃草團隊致力於「降低公民參與的門檻」，這一次，我們希望能讓更多公民和我們一起加入自經區的論戰，讓政府機關與有心民代無法再以「開放經濟」的含混說法綁架民意。
 
-在本書中，我們將所有的73條（除罰則以外）的法條全部寫成摘要，並且整理出當前社會辯論中浮上檯面的十二個重要爭議。
-
-沃草希望，讓大家都能讀懂自經區草案，不要沈溺於政府機關的單方面說明與宣傳，也不要因為無力便覺得這不關自己的事。
-
-沃草邀請大家，用自己的眼睛與大腦，判斷自經區究竟是什麼的解藥、哪裡又有問題？
-
-這本書的另外一個特色是，我們只有整理爭議，沒有整理正面說法，原因在於兩點：
-
-1. 政府努力整理了許多正面說法，實在不需要我們代勞：大家可以上[自經區官方網站](http://www.fepz.org.tw/m1.aspx?sNo=0019944)找找
-2. 政府有義務回答我們的問題：請大家找出自己關心的問題，對政府進行發問，並且和一些公民團體聯絡，籌備接下來的公民運動
 
 ## 綱要
 
@@ -45,22 +34,23 @@
 * 「**假辦學，真土地開發**」爭議
 * 「**破壞教育公共性**」爭議
 
-## 法規與報告文件(pdf)
-
+## 懶人包、法規與報告文件(pdf)
+* [自由經濟示範區：逆轉勝的序曲](http://about.fepz.org.tw/)
+* [示範區：話說從頭)](http://www.slideshare.net/NDCFepz/part-2-35993451)
+* [智慧物流係蝦米？](http://taiwan-ftz.com/public/Data/47416334571.pdf)
+* [自由經濟示範區：國際健康產業](http://www.mohw.gov.tw/MOHW_Upload/doc/%E5%9C%8B%E9%9A%9B%E5%81%A5%E5%BA%B7%E7%94%A2%E6%A5%AD%E6%87%B6%E4%BA%BA%E5%8C%85-1030625_0045708001.pdf)
+* [金融服務已經納入自由經濟示範區](http://www.fsc.gov.tw/ch/home.jsp?id=431&parentpath=0,2)
 * [自經區草案法規與總說明](http://www.fepz.org.tw/dn.aspx?uid=34042)
 * [修正動議（執政黨）](https://drive.google.com/file/d/0B6ZiS9f8Cm9qbzJwWmVJNW9pRDQ/edit?usp=sharing)
 * [修正動議（在野黨）](https://drive.google.com/file/d/0B6ZiS9f8Cm9qWkQtMTFJR2dFejA/edit?usp=sharing)
 * [自經區法規影響評估報告(520)](http://www.fepz.org.tw/dn.aspx?uid=35707)
 
+
 ---
 
 ## 版權說明
 
-![沃草](http://i.imgur.com/XR31knH.jpg)
-
-《讓你真的讀懂草案的「自經區爭議書」》由[沃草！](https://www.facebook.com/WatchOutTW)整理撰寫，採 CC-BY-SA 授權釋出。
-
-如果欲下載 PDF 版本，請下載[沃草自行轉檔版本](http://bit.ly/1i4up75)，才不會有亂碼。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">自由經濟示範區釋疑書</span>由<a xmlns:cc="http://creativecommons.org/ns#" href="http://www.ndc.gov.tw" property="cc:attributionName" rel="cc:attributionURL">國家發展委員會</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">創用CC 姓名標示-相同方式分享 4.0 國際 授權條款</a>釋出。<br />此作品衍生自<a xmlns:dct="http://purl.org/dc/terms/" href="https://www.gitbook.io/book/billy3321/taiwanfepzs" rel="dct:source">https://www.gitbook.io/book/billy3321/taiwanfepzs</a>
 
 ### 版本
 
@@ -69,7 +59,9 @@
 * 3版：2014年5月29日，新增兩個爭議，並補上一些說明章節
 * 4版：2014年6月3日，新增法條原文
 * 5版：2014年6月5日，修改爭議、補上PDF版本連結
+* 6版：2014年7月15日，國發會就沃草原版內容進行補註、澄清說明。
 
 ## 回饋
 
-如果你發現，有我們沒有整理到的爭議、錯誤內容或是重要補充資料，歡迎將你的意見寄到 musou@watchout.tw，我們將非常感謝你的貢獻。
+想知道更多有關自由經濟示範區的政策內容嗎？<br/>
+歡迎你前往[自由經濟示範區：逆轉勝的序曲](http://www.fepz.org.tw/)，了解更多詳盡的內容，若有任何問題也歡迎寫信給我們：fepz@ndc.gov.tw，一起為台灣的未來加油！
