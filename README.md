@@ -49,18 +49,13 @@
 
 ---
 
-## 版權說明
+## 著作權說明
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">自由經濟示範區釋疑書</span>由<a xmlns:cc="http://creativecommons.org/ns#" href="http://www.ndc.gov.tw" property="cc:attributionName" rel="cc:attributionURL">國家發展委員會</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">創用CC 姓名標示-相同方式分享 4.0 國際 授權條款</a>釋出。<br />此作品衍生自<a xmlns:dct="http://purl.org/dc/terms/" href="https://www.gitbook.io/book/billy3321/taiwanfepzs" rel="dct:source">https://www.gitbook.io/book/billy3321/taiwanfepzs</a>
 
 ### 版本
 
-* 1版：2014年5月28日，初版
-* 2版：2014年5月29日，修改更新一些小部分錯誤
-* 3版：2014年5月29日，新增兩個爭議，並補上一些說明章節
-* 4版：2014年6月3日，新增法條原文
-* 5版：2014年6月5日，修改爭議、補上PDF版本連結
-* 6版：2014年7月15日，國發會就沃草原版內容進行補註、澄清說明。
+* 1.0版：2014年7月15日，國發會以沃草原版（5版：2014年6日5日）內容為基礎叉出進行補註、澄清說明。
 
 ## 回饋
 
